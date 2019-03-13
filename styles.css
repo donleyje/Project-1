@@ -108,6 +108,11 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+.resize{
+  clear: inherit;
+
+}
+
 .card:hover {
   border-color: #af9ad3;
 }
